@@ -8,37 +8,41 @@
 * 💼 I am open to job opportunities related to Data Engineering, Data Analysis, and Machine Learning.
 
 ### 🛠  Technical Skills
-* 💻 
+* 💻 **Backend & APIs**
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=Cplusplus&logoColor=276DC3)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-* 📚
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas) 
-![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy) 
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib) 
-![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn) 
-![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn) 
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+* 📚 **Data & Libraries**
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
+![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=streamlit)
-* 🛢
+* 🛢 **Databases**
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite) 
-* 🔧
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+* ☁️ **Cloud (AWS)**
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-333333?style=flat&logo=awslambda)
+![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-333333?style=flat&logo=amazons3)
+![AWS Glue](https://img.shields.io/badge/-AWS%20Glue-333333?style=flat&logo=amazonaws)
+![Amazon Athena](https://img.shields.io/badge/-Amazon%20Athena-333333?style=flat&logo=amazonaws)
+![CloudWatch](https://img.shields.io/badge/-CloudWatch-333333?style=flat&logo=amazoncloudwatch)
+![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
+* 🔧 **DevOps & Tooling**
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-333333?style=flat&logo=apache-hadoop)
-![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-333333?style=flat&logo=apache-hive)
-* 📊
-![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
-* ⚙️
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 ![colab](https://img.shields.io/badge/-colab-333333?style=flat&logo=colabbadge)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-* ☁️
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
-![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
+* 📊 **BI**
+![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
 
 
 
@@ -64,9 +68,8 @@ Thank you for visiting my profile! 📚 I enjoy spending time outdoors, travelin
 
 <div align="center">
   <a href="https://github.com/jrabuffetti/jrabuffetti">
-    <img src="https://github-readme-stats.vercel.app/api?username=jrabuffetti&repo=jrabuffetti&theme=custom&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=8B949E" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jrabuffetti&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=8B949E&show_icons=true&icon_color=FFFFFF" />
     <br/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrabuffetti&theme=custom&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=8B949E" />
-
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrabuffetti&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=8B949E&layout=compact" />
   </a>
 </div>

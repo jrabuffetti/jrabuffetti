@@ -1,11 +1,11 @@
 ### Welcome to my GitHub! 👋
 
-¡My name is Juan Rabuffetti, Data Engineer and passionate about Data Science! 🚀
+¡My name is Juan Rabuffetti, currently working as a Data Scientist on Market One! 🚀
+
+With a background in Data Engineering, I build APIs, automate data pipelines, and deploy cloud-based solutions using Python, FastAPI, SQL, and AWS.
 
 ### About me
-* 💡 My mission: committed to integrating Data Engineering, technology and data science for a smarter, sustainable future.
-* 🎓 I'm currently studying at SoyHenry to stay at the forefront of Data Science.
-* 💼 I am open to job opportunities related to Data Engineering, Data Analysis, and Machine Learning.
+* 💡 Passionate about transforming data into actionable insights and scalable systems.
 
 ### 🛠  Technical Skills
 * 💻 **Backend & APIs**
@@ -52,9 +52,6 @@
 * 🌱 Always updating skills to stay current in data science.
 * 👨‍💼 Demonstrated ability to solve problems with data.
 
-### Connect with me!
-Looking for a dedicated and passionate Data Engineer? Contact me! Together, we'll drive the success of your project or company!
-
 <p>
   <a href="https://www.linkedin.com/in/juan-rabuffetti/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"alt="Linkedin">    
@@ -64,12 +61,12 @@ Looking for a dedicated and passionate Data Engineer? Contact me! Together, we'l
   </a>
 </p>
 
-Thank you for visiting my profile! 📚 I enjoy spending time outdoors, traveling, and quality time with family and friends. Let's make the world a better place with science and data! 🌍✨
+Thank you for visiting my profile!
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/jrabuffetti/jrabuffetti">
     <img src="https://github-readme-stats.vercel.app/api?username=jrabuffetti&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=8B949E&show_icons=true&icon_color=FFFFFF" />
     <br/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrabuffetti&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=8B949E&layout=compact" />
   </a>
-</div>
+</div> -->
